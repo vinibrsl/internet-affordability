@@ -4,7 +4,7 @@ Access to Internet is a basic human right, the United Nations declared in 2016, 
 
 This project shows that there are countries that Internet access costs more than 20% of the average monthly income of a household. 
 
-![](https://github.com/vnbrs/internet-affordability/raw/main/graph.png)
+![](https://github.com/vnbrs/internet-affordability/raw/main/chart.png)
 
 If you want to see the data with more details, [here's the link to the full chart](https://datawrapper.dwcdn.net/6PZaM/1/).
 
