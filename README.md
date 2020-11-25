@@ -14,7 +14,7 @@ The Internet is so embedded in our lives that sometimes we don't realize that it
 The global coronavirus pandemic has revealed how dependent we have become on Internet access. Voting, telemedicine, studying, shopping, among other things that we do without even realizing there are people that don't have Internet access.
 
 ## Where is data from?
-All data used in this dataset is from [Numbeo](https://www.numbeo.com), the world’s largest cost of living database. Numbeo is also a crowd-sourced global database of quality of life informations including housing indicators, perceived crime rates, and quality of healthcare, among many other statistics.
+All data used in this dataset is from country-level [Numbeo](https://www.numbeo.com) information, the world’s largest crowd-sourced global database of quality of life informations including housing indicators, perceived crime rates, and quality of healthcare, among many other statistics.
 
 You can read and contribute to the code used for extracting the data in this [Jupyter Notebook](https://github.com/vnbrs/internet-affordability/blob/main/dataset.ipynb).
 
