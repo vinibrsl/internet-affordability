@@ -1,6 +1,6 @@
 # Internet Affordability by Country
 
-![]()
+![](https://github.com/vnbrs/internet-affordability/raw/main/graph.png)
 
 ## What?
 Access to Internet is a basic human right, the United Nations declared in 2016, however there are many country that Internet is still not affordable. In Europe, 87% of families enjoy Internet access, while that figure is only 18% in Africa.
