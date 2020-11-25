@@ -17,3 +17,5 @@ The global coronavirus pandemic has revealed how dependent we have become on Int
 All data used in this dataset is from [Numbeo](https://www.numbeo.com), the world’s largest cost of living database. Numbeo is also a crowd-sourced global database of quality of life informations including housing indicators, perceived crime rates, and quality of healthcare, among many other statistics.
 
 You can read and contribute to the code used for extracting the data in this [Jupyter Notebook](https://github.com/vnbrs/internet-affordability/blob/main/dataset.ipynb).
+
+A CSV version of the data is also available [here](https://github.com/vnbrs/internet-affordability/blob/main/dataset.csv).
