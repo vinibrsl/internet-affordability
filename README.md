@@ -1,11 +1,12 @@
 # Internet Affordability by Country
 
-![](https://github.com/vnbrs/internet-affordability/raw/main/graph.png)
-
-## What?
 Access to Internet is a basic human right, the United Nations declared in 2016, however there are many country that Internet is still not affordable. In Europe, 87% of families enjoy Internet access, while that figure is only 18% in Africa.
 
 This project shows that there are countries that Internet access costs more than 20% of the average monthly income of a household. 
+
+![](https://github.com/vnbrs/internet-affordability/raw/main/graph.png)
+
+If you want to see the data with more details, [here's the link to the full chart](https://datawrapper.dwcdn.net/6PZaM/1/).
 
 ## Why is Internet so important?
 The Internet is so embedded in our lives that sometimes we don't realize that it links to our human rights, such as right to freedom of speech, right to development and right to freedom of assembly.
